@@ -35,7 +35,6 @@
   <img align ="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bea4aa&theme=jolly">
    <img align ="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bea4aa&theme=jolly" >
     <img align ="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bea4aa&theme=jolly&utcOffset=8">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
   <br>
   <br>
   
@@ -69,7 +68,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:beatrizsantosdovale8@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/bea4aa/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/beatriz-s 305244/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/beatriz-s305244/)
   
 </div>
 
