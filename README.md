@@ -19,7 +19,7 @@
 </div>
 
 <div align="center" width="110%">
-  <img align= "center"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=BBBBDD&width=435&lines=Seja+bem-vindo!;I'm+a+student+of+Systems+Development;From+Brazil+-+SP"/>
+  <img align= "center"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FFFFFF&width=435&lines=Seja+bem-vindo!;I'm+a+student+of+Systems+Development;From+Brazil+-+SP)"/>
 </div>
 
 <br>
