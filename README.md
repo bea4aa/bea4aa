@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img align="center" height="150" src="https://images.steamusercontent.com/ugc/777280951083451289/3D8AEA2099AC4F1526AA3C329C3AB7E4524F5A42/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false" />
+  <img align="center" height="400" src="https://images.steamusercontent.com/ugc/777280951083451289/3D8AEA2099AC4F1526AA3C329C3AB7E4524F5A42/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false" />
   
 </div>
 
