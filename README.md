@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="https://images.steamusercontent.com/ugc/777280951083451289/3D8AEA2099AC4F1526AA3C329C3AB7E4524F5A42/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false" />
   
 </div>
 
@@ -19,13 +19,13 @@
 </div>
 
 <div align="center" width="110%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=BBBBDD&width=435&lines=Seja+bem-vindo!;I'm+a+student+of+Systems+Development;From+Brazil+-+SP"/>
+  <img align= "center"src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=BBBBDD&width=435&lines=Seja+bem-vindo!;I'm+a+student+of+Systems+Development;From+Brazil+-+SP"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･-white" />
 </div>
       
 <br>
