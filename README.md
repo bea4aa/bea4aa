@@ -32,7 +32,7 @@
 <br>
       
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bea4aa&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bea4aa&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bea4aa&theme=jolly&utcOffset=8) | :-: | :-: | :-: |
+  <img align ="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bea4aa&theme=jolly"![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bea4aa&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bea4aa&theme=jolly&utcOffset=8) | :-: | :-: | :-: |
   <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
   <br>
   <br>
