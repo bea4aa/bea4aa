@@ -1,7 +1,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=a865"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=white"/>
 
 <br>
 
@@ -99,7 +99,7 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=white"/>
 
 
 
