@@ -67,8 +67,8 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:beatrizsantosdovale8@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/bea4aa/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/beatriz-s305244/)
+  [![SpaceHey](https://img.shields.io/badge/SpaceHey%20-%20%23000000?style=for-the-badge&logo=SpaceHey)](https://spacehey.com/profile?id=4443544)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/beatriz-s30524436)
   
 </div>
 
